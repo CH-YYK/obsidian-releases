@@ -39170,5 +39170,12 @@
     "author": "N23eos",
     "description": "Finder-style file explorer for Obsidian with Miller columns, drag and drop, multi-select, context menus, and complete file management. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "n23eos/column_explorer"
+  },
+  {
+    "id": "rednote",
+    "name": "RedNote",
+    "author": "kylemumu",
+    "description": "Connect RedNote/Xiaohongshu (小红书) with Obsidian.",
+    "repo": "CH-YYK/obsidian-rednote"
   }
 ]
